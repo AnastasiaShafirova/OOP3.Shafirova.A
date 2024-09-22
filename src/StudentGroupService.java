@@ -4,6 +4,10 @@ public class StudentGroupService {
 
     private StudentGroup studentGroup;
 
+    public StudentGroup createStudentGroup(Teacher teacher, List<Student> students) {
+        return new StudentGroup(teacher, students);
+    }
+
     public void removeStudentByFIO(String firstName, String lastName, String middleName){ //метод по удалению студента
         Iterator<Student> iterator = studentGroup.iterator();//вызов метода итератор
         while (iterator.hasNext()){ //с помощью метода hasNext проверяем существует ли данный студент

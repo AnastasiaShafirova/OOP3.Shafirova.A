@@ -9,6 +9,36 @@ public class Teacher extends User implements Comparable<Teacher> {
         super(firstName, lastName, middleName);
     }
 
+    @Override
+    public String getFirstName() {
+        return firstName;
+    }
+
+    @Override
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    @Override
+    public String getLastName() {
+        return lastName;
+    }
+
+    @Override
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    @Override
+    public String getMiddleName() {
+        return middleName;
+    }
+
+    @Override
+    public void setMiddleName(String middleName) {
+        this.middleName = middleName;
+    }
+
     public Long getTeacherId() {
         return teacherId;
     }
@@ -19,6 +49,7 @@ public class Teacher extends User implements Comparable<Teacher> {
 
     @Override
     public int compareTo(Teacher o) {
+
         return this.teacherId.compareTo(o.teacherId);
     }
 }
