@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public interface UserVU {
+import java.util.List;
+
+public interface UserVU <T extends User> {
+
+    void sendOnConsole(List<T> list);
+
+
 }

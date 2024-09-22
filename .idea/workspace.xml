@@ -1,32 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd78bbf-268e-4e7b-bfc5-37682593d37a" name="Changes" comment="" />
+    <list default="true" id="ffd78bbf-268e-4e7b-bfc5-37682593d37a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Potoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Potoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PotocService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PotocService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentGroupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentVU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeacherVU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherVU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserVU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserVU.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnastasiaShafirova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnastasiaShafirova/OOP3.Shafirova.A.git&quot;,
+    &quot;accountId&quot;: &quot;bcc38677-44cb-4c3f-b1c0-f73512141416&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mHB9OtSEnjPjZO4PKTkk4FOBma" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Александр/IdeaProjects/OOP3/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Александр/IdeaProjects/OOP3&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Александр/IdeaProjects/OOP3/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,16 +89,5 @@
       <updated>1726723470523</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
